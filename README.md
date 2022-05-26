@@ -1,2 +1,2 @@
 # isolationAI
-project establish aiAgent with myTeam (Tri, Dat, Phu)
+project establish aiAgent with myTeam
